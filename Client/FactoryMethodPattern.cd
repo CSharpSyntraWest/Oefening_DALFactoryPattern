@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConcreteFactory.DbDALFactory">
+    <Position X="3" Y="3.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Factory.DALFactory">
+    <Position X="3" Y="1.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Factory.DataProviderType">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
