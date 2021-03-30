@@ -21,16 +21,16 @@
       <FileName>OracleDAL.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Product.DALBaseClass">
+    <Position X="6" Y="0.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
   <Class Name="ConcreteProducts.SqlDAL">
     <Position X="10" Y="4.25" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAgAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>SqlDAL.cs</FileName>
     </TypeIdentifier>
-  </Class>
-  <Class Name="Product.DALBaseClass">
-    <Position X="6" Y="0.75" Width="2" />
-    <TypeIdentifier />
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
